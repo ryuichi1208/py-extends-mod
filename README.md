@@ -1,2 +1,3 @@
 # py-extends-mod
-py
+
+Tips for writing python extension modules.
